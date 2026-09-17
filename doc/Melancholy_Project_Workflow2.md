@@ -2,7 +2,7 @@
 
 ## 1. 專案簡介
 
-[簡介說明](MARK/doc/Melancholy_Project_Workflow2.md)<br>
+[簡介說明](MARK/doc/Melancholy_Project_Workflow2.md)
 
 ![流程圖](MARK/png/Code_Generated_Image2)
 
