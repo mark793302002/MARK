@@ -4,7 +4,7 @@
 
 [簡介說明](doc/Melancholy_Project_Workflow2.md)<br>
 
-![流程圖](png/Code_Generated_Image2)
+![流程圖](png/Code_Generated_Image2.png)
 
 
 本專案為一套基於 Java Swing GUI 視窗框架開發的「台灣人憂鬱症自我檢測量表」桌面應用程式。該系統旨在提供使用者一個直覺、友善且具互動性的心理健康檢測工具。透過量表問卷評估個人的心理與情緒狀態，並自動計算量表總分與對應之身心狀況等級，輔助使用者及早發現潛在的情緒困擾與憂鬱傾向，適時尋求專業心理諮商或醫療資源協助。
